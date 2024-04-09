@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpit</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Arpit4288/Arpit4288/assets/87499605/b4838e34-6405-4d67-ae72-9912512a58a5)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit4288&label=Profile%20views&color=0e75b6&style=flat" alt="arpit4288" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpit4288" alt="arpit4288" /></a> </p>
